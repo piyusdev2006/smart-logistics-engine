@@ -1,0 +1,3 @@
+C:/Users/piyus/Desktop/SmartLogistics/build/CMakeFiles/LogisticsEngine.dir
+C:/Users/piyus/Desktop/SmartLogistics/build/CMakeFiles/edit_cache.dir
+C:/Users/piyus/Desktop/SmartLogistics/build/CMakeFiles/rebuild_cache.dir
